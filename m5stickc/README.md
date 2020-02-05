@@ -1,5 +1,6 @@
 M5stickC projects
-![](https://github.com/arduinoufv/2019/blob/master/m5stickc/m5c.png | width=100)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/arduinoufv/2019/blob/master/m5stickc/m5c.png" width="200" height="400" />
+
 
 [Official Git](https://github.com/m5stack/M5StickC)
 
