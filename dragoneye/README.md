@@ -5,3 +5,7 @@
 [video](https://www.youtube.com/watch?v=uYIc1pLO6Xk)
 
 [Git example](https://github.com/wermy/Uncanny_Eyes/blob/master/uncannyEyes/uncannyEyes.ino)
+
+[video] (https://www.youtube.com/watch?v=crMSpkif-k4&feature=emb_rel_pause)
+
+[video two eyes small oled](https://www.youtube.com/watch?v=n3Fj2zCOv98)
